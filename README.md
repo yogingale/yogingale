@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm @yogingale
 
-- 👀 I’m Automation engineer
+- 👀 I’m Automation/DevOps engineer
 - 🌱 I’m currently building stuff in AWS with Python
 - 💞️ I’m looking to collaborate on something fun
 - 📫 Reach me on Twitter - [yogingale](https://twitter.com/yogingale)
