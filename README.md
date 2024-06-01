@@ -2,7 +2,6 @@
 
 - 👀 I’m Automation/DevOps engineer
 - 🌱 I’m currently building stuff in AWS with Python
-- 💞️ I’m looking to collaborate on something fun
 - 📫 Reach me on Twitter - [yogingale](https://twitter.com/yogingale)
 
 <summary> 😇 <b>This is what I do</b>: </summary>
